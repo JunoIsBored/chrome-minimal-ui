@@ -6,5 +6,6 @@
     "author": "https://github.com/XanderIsBored",
     "chrome_url_overrides":{
         "newtab": "index.html"
+        "u"
     }
 }

@@ -1,29 +1,13 @@
 <!DOCTYPE html>
 <html>
+    <meta charset="UTF-8">
     <head> 
         <title>>:3</title>
     </head>    
-    <body onload="startTimer()">
-        <p id="clock"></p>
-        <p>test</p>
-        <script>
-            function startTimer(){
-                const today = new Date();
-                let hours = today.getHours();
-                let minutes = today.getMinutes();
-                let seconds = today.getSeconds();
-                minutes = checkTime(minutes);
-                seconds = checkTime(seconds);
-
-                document.getElementById('clock').innerHTML = 
-                hours + ":" + minutes + ":" + seconds;
-                setTimeout(startTimer,1000);
-
-                function checkTime(t) {
-                    if (t < 10) {t = "0" + t};
-                    return t;
-                }
-            }
-        </script>
+    <body>
+        <p id="clockTag">test</p>
+        
+        <script src="clock.js"></script>
+       
     </body>
 </html>
