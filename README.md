@@ -12,4 +12,6 @@ a simple ui upgrade for chrome
 
 4. click load unpacked and select the repo
 
+5. create a new tab, then click keep it
+
 Made by Xander 15/11/24
