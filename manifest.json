@@ -3,6 +3,8 @@
     "name": "Minimal homepage",
     "version": "1.0",
     "description": "A minimal home page extention for google chrome",
-    "author": "https://github.com/XanderIsBored"
-
+    "author": "https://github.com/XanderIsBored",
+    "chrome_url_overrides":{
+        "newtab": "index.html"
+    }
 }
