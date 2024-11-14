@@ -1,0 +1,8 @@
+{
+    "manifest_version":3,
+    "name": "Minimal homepage",
+    "version": "1.0",
+    "description": "A minimal home page extention for google chrome",
+    "author": "https://github.com/XanderIsBored"
+
+}
