@@ -18,4 +18,5 @@ function startTime(){
     }
 } 
 
-document.getElementById("github-button").onclick = function () { window.location.replace("https://github.com/XanderIsBored/chrome-minimal-ui"); };
+document.getElementById("github-button").onclick = function () {
+window.location.replace("https://github.com/XanderIsBored/chrome-minimal-ui"); };
