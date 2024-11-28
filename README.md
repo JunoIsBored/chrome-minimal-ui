@@ -1,6 +1,6 @@
 # chrome-minimal-ui
 
-a simple ui upgrade for chrome 
+a minimal ui upgrade for chrome with date and time on homescreen.
 
 ## Install instructions
 
