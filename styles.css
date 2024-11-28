@@ -17,6 +17,13 @@ p{
     font-family: "Work Sans";
 
 }
+#date{
+    margin:0px;
+    user-select: none;
+    text-align: center;
+    font-size: 3vw;
+    font-family: "Work Sans";
+}
 .github-link{
     position: fixed;
     bottom: 0;
